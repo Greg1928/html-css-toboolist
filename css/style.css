@@ -69,12 +69,14 @@ h1{
 }
 
 h3{
-    margin-left: 64px;
+    margin-left: 42px;
     padding-top: 30px;
 }
 .tasks{
-    margin-left: 78px;
+    margin-left: 40px;
     padding-top: 5px;
+    margin-bottom: 12px;
+    margin-top: 10px;
 }
 #circle{
     display: inline-block;
@@ -85,10 +87,31 @@ h3{
     text-align: center;
     color: #73c8b5;
 }
+#circle-red{
+    display: inline-block;
+    height: 25px;
+    width: 25px;
+    border: solid red;
+    border-radius: 50%;
+    text-align: center;
+    color: red;
+}
 .tag{
     display: inline-block;
     color: white;
-    background-color: #47adf1;
     border-radius: 10px;
     padding: 5px;
+}
+
+.tag-purple{
+    background-color: #9c72e4;
+}
+.tag-blue{
+    background-color: #45abea;
+}
+.tag-orange{
+    background-color: #f29e33;
+}
+.tag-green{
+    background-color:#73c8b5;
 }
