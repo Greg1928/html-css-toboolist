@@ -30,7 +30,6 @@ h1{
     margin-top: 50px;
     padding-top: 13px;
     border-radius: 5px;
-    margin-bottom: 10px;
 }
 .button-1{
     width: 100px;
@@ -62,7 +61,7 @@ h1{
 }
 .contenitore-grande{
     width: 800px;
-    height: 600px;
+    height: 650px;
     margin: 0 auto;
     background-color: white;
     margin-top: 5px;
@@ -114,4 +113,10 @@ h3{
 }
 .tag-green{
     background-color:#73c8b5;
+}
+.tag-red2{
+    background-color: #d863a1;
+}
+.tag-green2{
+    background-color: #b0c926;
 }
